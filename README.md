@@ -11,6 +11,7 @@ VoiceRecruit Pro is an interactive interview application that leverages Azure Co
 - [Usage](#usage)
   - [Starting the Application](#starting-the-application)
   - [Interview Process](#interview-process)
+  - [Result](#result)
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
@@ -64,6 +65,10 @@ python VoiceRecruit-Pro.py
 2. Interview questions will be displayed in the Tkinter window.
 3. Applicant responses will be recorded and displayed in real-time.
 4. GPT-generated responses will be shown in the GUI.
+
+### Result
+![Result Image](https://github.com/kaushik54git/VoiceRecruit-Pro/raw/36096fd1760932565387754f01545f3d3b745240/result1.jpg)
+
 
 ## Configuration
 
